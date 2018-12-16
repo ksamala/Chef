@@ -1,0 +1,6 @@
+httpd
+mlocate
+ntpd
+pciutils
+copy k_ files and configure symlinks in /usr/sbin or /usr/bin
+

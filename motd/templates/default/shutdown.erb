@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo `whoami` "shutdown" `hostname` "at" `date`>>/var/k_log/boot.log
+init 0
